@@ -1,4 +1,6 @@
 {
+	"contacts":[
+		{
     "firstName": "John",
     "lastName": "Smith",
     "age": 25,
@@ -11,7 +13,9 @@
             "type": "fax",
             "number": "646 555-4567" 
         }
-    ],
+    ]
+		},
+		{
 	 "firstName": "John1",
     "lastName": "Smith1",
     "age": 25,
@@ -25,4 +29,6 @@
             "number": "646 555-1245" 
         }
     ]
+		}
+		]
 }
