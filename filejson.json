@@ -1,0 +1,28 @@
+{
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 25,
+    "phoneNumbers": [
+        {
+            "type": "home",
+            "number": "212 555-1234"
+        },
+        {
+            "type": "fax",
+            "number": "646 555-4567" 
+        }
+    ],
+	 "firstName": "John1",
+    "lastName": "Smith1",
+    "age": 25,
+    "phoneNumbers": [
+        {
+            "type": "home1",
+            "number": "212 555-1345"
+        },
+        {
+            "type": "fax",
+            "number": "646 555-1245" 
+        }
+    ]
+}
